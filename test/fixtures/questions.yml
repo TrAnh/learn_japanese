@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyString
+  link_stream_audio: MyString
+  subject_id: 1
+  lession_id: 1
+  lession_type: 1
+  subject_type: 1
+  number_answers: 1
+  level: 1
+
+two:
+  content: MyString
+  link_stream_audio: MyString
+  subject_id: 1
+  lession_id: 1
+  lession_type: 1
+  subject_type: 1
+  number_answers: 1
+  level: 1

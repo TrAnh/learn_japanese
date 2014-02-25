@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lession_id: 1
+  estimate_time: 2014-02-25 13:59:56
+  number_questions: 1
+  description: MyString
+  level: 1
+
+two:
+  lession_id: 1
+  estimate_time: 2014-02-25 13:59:56
+  number_questions: 1
+  description: MyString
+  level: 1
